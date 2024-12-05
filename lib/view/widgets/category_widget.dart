@@ -8,7 +8,7 @@ class CategoryWidget extends StatelessWidget {
     return Stack(
       children: [
         SizedBox(
-          child: Image.asset("name",),
+          child: Image.asset("name asa",),
           width: MediaQuery.sizeOf(context).width / 2,
           height: 500,
         ),
